@@ -62,3 +62,14 @@ TITLE.onclick = function(){
   alert("タイトルをクリックした！！")
 }
 console.dir(TITLE)
+
+
+
+
+
+
+
+
+
+const hello = "こんにちは"
+console.log(hello);
